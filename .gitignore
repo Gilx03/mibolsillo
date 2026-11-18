@@ -1,0 +1,26 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# --- MiBolsillo ---
+# Llave de firma y sus contraseñas: NUNCA se suben al repositorio
+keystore.properties
+*.jks
+*.keystore
+# Carpeta de compilación del módulo y caché de Kotlin
+/app/build
+.kotlin/
+# APK generados (se comparten por GitHub Releases, no en el código)
+*.apk

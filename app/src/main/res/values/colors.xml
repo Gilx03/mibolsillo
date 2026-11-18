@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Color de fondo de la ventana mientras arranca la app (splash del sistema en Android 12+) -->
+    <color name="verde_marca">#FF00796B</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
