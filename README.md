@@ -270,11 +270,7 @@ Archivo: `app/src/test/java/com/example/mibolsillo/UtilidadesTest.kt`.
 
 | Integrante | Matrícula | Responsabilidad |
 |---|---|---|
-| _Nombre 1_ | _0000-0000_ | _Ej.: Base de datos (Room) y repositorios_ |
-| _Nombre 2_ | _0000-0000_ | _Ej.: Login, registro y sesión_ |
-| _Nombre 3_ | _0000-0000_ | _Ej.: Movimientos, Inicio y Estadísticas_ |
-| _Nombre 4_ | _0000-0000_ | _Ej.: Presupuestos, Metas, Consejos y Perfil_ |
+| _Gilberto Gonzalez_ | _2021-1005_ | Desarrollo completo de la app |
 
 ---
 
-<p align="center">Hecho con 💚 y Kotlin · Proyecto académico</p>
