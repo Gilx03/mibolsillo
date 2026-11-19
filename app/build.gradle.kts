@@ -41,6 +41,14 @@ android {
     }
 
     buildTypes {
+        debug {
+            // Si existe la llave, la versión debug (botón Run de Android Studio) se firma con la
+            // MISMA llave que el APK de release. Así Android permite instalar una encima de la otra
+            // sin desinstalar la app y sin perder la base de datos del dispositivo.
+            if (propiedadesFirma != null) {
+                signingConfig = signingConfigs.getByName("release")
+            }
+        }
         release {
             // R8: reduce y optimiza el código (APK más pequeño y rápido)
             optimization {
