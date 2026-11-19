@@ -216,7 +216,7 @@ flowchart TD
 
 ### Opción A: instalar el APK en un teléfono
 
-1. Descarga `MiBolsillo-v1.0.apk` desde la sección **Releases** del repositorio.
+1. Descarga `MiBolsillo-v1.0.apk` desde [Releases](https://github.com/Gilx03/mibolsillo/releases).
 2. En el teléfono, abre el archivo y permite "Instalar apps de origen desconocido" si te lo pide.
 3. Abre **MiBolsillo**, crea una cuenta y listo.
 4. (Opcional) En **Perfil → Cargar datos de demostración** verás la app con datos de ejemplo.
@@ -226,7 +226,7 @@ flowchart TD
 1. Instala **Android Studio** (versión reciente, con el SDK de Android 37).
 2. Clona el repositorio:
    ```bash
-   git clone https://github.com/USUARIO/mibolsillo.git
+   git clone https://github.com/Gilx03/mibolsillo.git
    ```
 3. Abre la carpeta del proyecto en Android Studio y espera a que termine la sincronización de Gradle.
 4. Conecta un teléfono (con depuración USB) o inicia un emulador y presiona **Run ▶**.
